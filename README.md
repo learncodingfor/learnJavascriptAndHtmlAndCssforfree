@@ -1,3 +1,4 @@
+<h1>JavaScript code snip</h1>
 ```javascript
 function hello(){
   alert("hello");
