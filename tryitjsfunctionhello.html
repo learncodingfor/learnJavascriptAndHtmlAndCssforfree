@@ -1,8 +1,9 @@
 <div id="c" contentEditable="true" value=""></div>
 <button onclick="run()">run</button>
+<textarea id="r"></textarea>
 <script>
   function run(){
-    document.write(document.getElementById("c").value);
-    if(document.getElementById("c").value = "<p>alert('hi')</p>"){document.write("hi")}
+    var res = document.getElementById("c").value;
+    document.getElementById("r").value = res;
   }
 </script>
