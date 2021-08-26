@@ -1,5 +1,5 @@
 ```javascript
-function fancyAlert(arg) {
+function hello() {
   if(arg) {
     $.facebox({div:'#foo'})
   }
