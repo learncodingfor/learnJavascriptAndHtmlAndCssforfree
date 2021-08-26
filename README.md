@@ -1,8 +1,9 @@
 <h1>JavaScript code snip</h1>
-<h2 contentEditable="true">```javascript
+```javascript
 function hello(){
   alert("hello");
 }
 document.body.onload = hello()
-```</h2>
+```
+<a href="tryitjsfunctionhello.html">try it yourself</a>
 <a href="js">javascript</a>
