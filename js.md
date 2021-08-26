@@ -1,6 +1,6 @@
-<p contentEditable="true">```javascript
+```javascript
 document.body.onload = hello()
 function hello() {
   alert("hello");
 }
-```</p>
+```
