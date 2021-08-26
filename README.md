@@ -1,7 +1,4 @@
- ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+document.body.onload = hello()
+function hello(){
+ alert("hello");
 }
-```
