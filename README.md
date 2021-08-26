@@ -1,5 +1,5 @@
 <h1>JavaScript code snip</h1>
-<h2>```javascript
+<h2 contentEditable="true">```javascript
 function hello(){
   alert("hello");
 }
