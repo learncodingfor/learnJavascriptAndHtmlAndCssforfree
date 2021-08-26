@@ -5,5 +5,5 @@ function hello(){
 }
 document.body.onload = hello()
 ```
-<a href="tryitjsfunctionhello.html">try it yourself</a>
+&copy;copyright 2021
 <a href="js">javascript</a>
